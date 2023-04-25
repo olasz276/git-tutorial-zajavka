@@ -1,5 +1,6 @@
 public class Person {
     private String pesel;
+    private String surname;
 
     public String whatIsYourHobby9) {
     return "pizza";
