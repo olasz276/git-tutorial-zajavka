@@ -1,4 +1,9 @@
 public class Person {
+    private String pesel;
+
+    public String whatIsYourHobby9) {
+    return "pizza";
+    }
     private String name;
     private BigDecimal salary;
 
